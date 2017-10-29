@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  transaction_id: 1
+  service_id: 1
+  buy_price: 1.5
+  sell_price: 1.5
+  balance_jpy: 1.5
+  balance_btc: 1.5
+  reserve_balance_jpy: 1.5
+  reserve_balance_btc: 1.5
+
+two:
+  transaction_id: 1
+  service_id: 1
+  buy_price: 1.5
+  sell_price: 1.5
+  balance_jpy: 1.5
+  balance_btc: 1.5
+  reserve_balance_jpy: 1.5
+  reserve_balance_btc: 1.5

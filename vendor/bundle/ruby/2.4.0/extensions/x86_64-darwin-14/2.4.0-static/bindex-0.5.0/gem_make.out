@@ -1,0 +1,15 @@
+current directory: /Users/hikoharu/Dev/myapp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/Users/hikoharu/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20171015-67059-1pz3013.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hikoharu/Dev/myapp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/hikoharu/Dev/myapp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/hikoharu/Dev/myapp/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20171015-67059-mw8s65/bindex
